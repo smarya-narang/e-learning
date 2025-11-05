@@ -12,13 +12,11 @@ This is a static, deployable **frontend-only** demo of an E‑Learning platform 
 
 
 
-## Quick Start
-1. Unzip and open `index.html` in a modern browser, **or** host the folder on any static host (Netlify, Vercel, GitHub Pages).
-2. Try these seeded accounts (set password on first login):
+1. Try these seeded accounts (set password on first login):
    - `admin@example.com` (admin)
    - `ada@example.com` (faculty)
    - `sam@example.com` (student)
-3. Or register a new account (student/faculty).
+2. Or register a new account (student/faculty).
 
 ## Project Structure
 ```
