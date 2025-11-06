@@ -1,6 +1,6 @@
-# E‑Learning Platform — Frontend Only (HTML/CSS/JS)
+# E‑Learning Platform
 
-This is a static, deployable **frontend-only** demo of an E‑Learning platform with gamification, built per your SRS. It uses **LocalStorage** to simulate a backend.
+This is a static, deployable  demo of an E‑Learning platform with gamification. It uses LocalStorage to simulate a backend.
 
 ## Features
 - Registration, Login (hashed in browser via SHA‑256), Logout
